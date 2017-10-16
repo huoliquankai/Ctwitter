@@ -1,0 +1,17 @@
+#xraspan12{
+	border: 1px solid blue;
+}
+
+#xrathumbnails {
+	display: inline-block;
+	border: 1px solid black;
+	width: 1800px;	
+}
+#xrathumbnails li{
+	float: right;
+	width: 550px;
+	height: 450px;
+	border: 1px solid red;
+	margin-left: 20px;
+}
+
